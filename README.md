@@ -1,5 +1,3 @@
-# Arbitrary-Precision-Calculator
-
 # Arbitrary Precision Calculator (APC)
 
 ## Project Overview
