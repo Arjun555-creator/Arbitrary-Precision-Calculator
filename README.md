@@ -31,13 +31,13 @@ gcc main.c addition.c subtraction.c multiplication.c division.c -o apc
 Run the calculator by providing two integers and an arithmetic operator:
 
 ```bash
-./apc 123 + 456
+./apc 12345678901234567890 * 98765432109876543210
 ```
 
 Example output:
 
 ```text
-579
+1219326311370217952237463801111263526900
 ```
 
 Replace the numbers and operator to perform other supported arithmetic operations.
