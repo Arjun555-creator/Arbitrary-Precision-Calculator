@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The Arbitrary Precision Calculator is a command-line application developed in C to perform arithmetic operations on integers that exceed the range supported by standard C data types.
+The Arbitrary Precision Calculator is a command-line application developed through Data Structure concepts to perform arithmetic operations on integers that exceed the range supported by standard C data types.
 
 The project uses a doubly linked list to represent numbers, storing each decimal digit in a separate node. This approach enables arithmetic calculations on large numbers without relying on fixed-size integer variables.
 
@@ -44,7 +44,8 @@ Replace the numbers and operator to perform other supported arithmetic operation
 
 ## Technologies Used
 
-- C Programming
+- Data Structures
+- C programming 
 - GCC Compiler
 - Linux
 
